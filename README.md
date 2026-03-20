@@ -19,8 +19,8 @@ No active management. No market timing. Pure compounding.
 The Projections-
 Based on real 10 year market data reflecting an 11% average annual return across the three indexes, the fund projects as follows. 
 
-10 years: $7.9 trillion
-20 years: $25.1 trillion
+10 years: $7.9 trillion.
+20 years: $25.1 trillion.
 30 years: $68.4 trillion. 
 
 At year 30 the fund approaches nearly double the current national debt — built from a one time seed, modest broad based contributions, and uninterrupted compounding.
