@@ -27,13 +27,17 @@ Based on real 10 year market data reflecting an 11% average annual return across
 At the 0.3% transaction tax rate with total annual contributions of approximately $589 billion, the fund projects as follows.
 
 10 years: $14.1 trillion.
+
 20 years: $49.8 trillion.
+
 30 years: $143.7 trillion.
 
 At the 0.5% transaction tax rate with total annual contributions of approximately $815 billion, the fund projects as follows.
 
 10 years: $18.1 trillion.
+
 20 years: $65.8 trillion.
+
 30 years: $192.4 trillion.
 
 Both projections grow naturally over time as equity trading volume and buyback activity expand. At year 30 under either scenario the fund does not merely approach the national debt — it buries it.
