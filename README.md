@@ -41,7 +41,8 @@ At the 0.5% transaction tax rate with total annual contributions of approximatel
 30 years: $192.4 trillion.
 
 Both projections grow naturally over time as equity trading volume and buyback activity expand. At year 30 under either scenario the fund does not merely approach the national debt — it buries it.
-The Governance
+
+The Governance-
 The fund is managed by an independent board whose seats are automatically assigned to existing nonpolitical roles — the Fed Chair, the CBO Director, the Comptroller General, and appointed independent economists. No Presidential nomination. No political capture. Members serve staggered 14 year terms and can only be removed for criminal conduct. Congress cannot appropriate, redirect, or liquidate the fund under any circumstance. The fund's sole mandate is passive index investment until the national debt is resolved.
 Why This Is Different
 Every other debt proposal requires cutting — which requires political will that has never materialized. This proposal builds. It uses the same passive index investing strategy that has generated wealth reliably for decades and applies it at national scale. Those who have benefited most from the system that created the debt — large corporations, high net worth individuals, and the financial industry — contribute proportionally to resolving it. The contribution rates are deliberately nominal, structured so that the pain is negligible and the alternative — default — is catastrophic for the very entities being asked to contribute. The fund is insulated from the political cycle by design. It simply needs time and discipline — two things Washington has never managed, which is precisely why this structure removes Washington from the equation entirely.
